@@ -1,0 +1,5 @@
+GET: Retrieve data from the server (e.g., fetch all items or a specific item).
+POST: Send data to the server to create a new resource (e.g., add a new item).
+PUT: Update an existing resource on the server completely (e.g., modify an item's entire data).
+PATCH: Update part of an existing resource (e.g., change just one field of an item).
+DELETE: Remove a resource from the server (e.g., delete an item).
